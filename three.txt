@@ -1,2 +1,4 @@
 this is the 3rd file but will be in the development branch
-Testing (seeing if theres a conflict with the staging branch when updating the file in main)
+
+Testing (seeing if theres a conflict with the staging branch when updating the file in main) 
+PS the merge conflict worked 
