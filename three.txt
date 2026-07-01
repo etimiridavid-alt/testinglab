@@ -1,1 +1,2 @@
 this is the 3rd file but will be in the development branch
+adding a new line to this file to follow the merge from staging branch. (this change was only made in the staging branch for reference)
